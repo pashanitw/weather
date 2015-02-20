@@ -1,0 +1,75 @@
+body{
+  background:url('../img/blur-bg.jpg') #D28E6A no-repeat;
+  font-family: "Roboto Condensed",Arial;
+  -webkit-text-stroke: 0.35px;
+  margin-top:60px;
+}
+.container{
+  max-width: 960px;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: inherit;
+}
+.bg{
+  background-image:url('../img/bg.jpg'); 
+  background-repeat:  no-repeat;
+  background-size: cover;
+  height: 400px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 10px 25px 25px 25px;
+  -webkit-border-top-left-radius: 5px;
+  -webkit-border-top-right-radius: 5px;
+  -moz-border-radius-topleft: 5px;
+  -moz-border-radius-topright: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.bg .title{
+  color:#FFF;
+}
+.text-center{
+  text-align: center;
+}
+.temp-title{
+  font-size: 20px;
+  font-weight: 300;
+  color:#FFF;    
+  line-height: 1.8em;
+  text-shadow: rgba(0,0,0,.01) 0 0 1px;
+}
+.weather-days{   
+  text-align: center;
+  background-color:rgba(50, 84, 116, 0.45);
+  height: 160px;    
+  width: 16.666666667%;
+  border-left:1px solid rgba(247, 247, 247, 0.28);
+}
+.weather-days .badge{
+  display: inline-block;
+  min-width: 10px;
+  padding: 5px 8px;
+  font-size: 12px;
+  font-weight: normal;    
+  color: #fff;
+  line-height: 1;
+  vertical-align: baseline;
+  white-space: nowrap;
+  text-align: center;
+  background-color: #6D788F;
+  border-radius: 13px;
+}
+.speed{
+  color:#DCE9D7; 
+  font-weight: 300;
+}  
+.weather-days div{
+  margin: 42% 0;
+}
+.today{
+  background-color:rgba(43, 156, 192, 0.34);
+}
+.today .temp-title{
+  font-size: 32px;
+  line-height: 1.3em;
+}

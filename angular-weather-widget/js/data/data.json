@@ -1,0 +1,164 @@
+{
+  "cod": "200",
+  "message": 0.0318,
+  "city": {
+    "id": "1276938",
+    "name": "Dhaka",
+    "coord": {
+      "lon": 90.3996,
+      "lat": 23.7132
+    },
+    "country": "Bangladesh",
+    "population": 0
+  },
+  "cnt": 7,
+  "list": [{
+    "dt": 1395900000,
+    "temp": {
+      "day": 33.23,
+      "min": 24.84,
+      "max": 33.23,
+      "night": 24.84,
+      "eve": 31.79,
+      "morn": 33.23
+    },
+    "pressure": 1019.39,
+    "humidity": 54,
+    "weather": [{
+      "id": 800,
+      "main": "Clear",
+      "description": "sky is clear",
+      "icon": "01d"
+    }],
+    "speed": 2.66,
+    "deg": 212,
+    "clouds": 0
+  }, {
+    "dt": 1395986400,
+    "temp": {
+      "day": 34.47,
+      "min": 21.48,
+      "max": 35.95,
+      "night": 24.7,
+      "eve": 33.17,
+      "morn": 21.48
+    },
+    "pressure": 1020.79,
+    "humidity": 45,
+    "weather": [{
+      "id": 800,
+      "main": "Clear",
+      "description": "sky is clear",
+      "icon": "01d"
+    }],
+    "speed": 3.71,
+    "deg": 271,
+    "clouds": 0
+  }, {
+    "dt": 1396072800,
+    "temp": {
+      "day": 35.5,
+      "min": 22.91,
+      "max": 36.91,
+      "night": 28,
+      "eve": 34.72,
+      "morn": 22.91
+    },
+    "pressure": 1018.85,
+    "humidity": 32,
+    "weather": [{
+      "id": 800,
+      "main": "Clear",
+      "description": "sky is clear",
+      "icon": "01d"
+    }],
+    "speed": 5.56,
+    "deg": 277,
+    "clouds": 0
+  }, {
+    "dt": 1396159200,
+    "temp": {
+      "day": 36.62,
+      "min": 22.38,
+      "max": 37.88,
+      "night": 26.9,
+      "eve": 35.19,
+      "morn": 22.38
+    },
+    "pressure": 1018.6,
+    "humidity": 29,
+    "weather": [{
+      "id": 800,
+      "main": "Clear",
+      "description": "sky is clear",
+      "icon": "01d"
+    }],
+    "speed": 6.02,
+    "deg": 272,
+    "clouds": 0
+  }, {
+    "dt": 1396245600,
+    "temp": {
+      "day": 36.29,
+      "min": 22.34,
+      "max": 37.3,
+      "night": 24.95,
+      "eve": 34.55,
+      "morn": 22.34
+    },
+    "pressure": 1019.29,
+    "humidity": 30,
+    "weather": [{
+      "id": 800,
+      "main": "Clear",
+      "description": "sky is clear",
+      "icon": "02d"
+    }],
+    "speed": 3.76,
+    "deg": 258,
+    "clouds": 8
+  }, {
+    "dt": 1396332000,
+    "temp": {
+      "day": 32.95,
+      "min": 22.6,
+      "max": 34.29,
+      "night": 22.69,
+      "eve": 31.84,
+      "morn": 22.6
+    },
+    "pressure": 1020.34,
+    "humidity": 33,
+    "weather": [{
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }],
+    "speed": 2.75,
+    "deg": 276,
+    "clouds": 88
+  }, {
+    "dt": 1396418400,
+    "temp": {
+      "day": 34.28,
+      "min": 21.79,
+      "max": 34.28,
+      "night": 24.23,
+      "eve": 33.25,
+      "morn": 21.79
+    },
+    "pressure": 1021.69,
+    "humidity": 0,
+    "weather": [{
+      "id": 500,
+      "main": "Rain",
+      "description": "light rain",
+      "icon": "10d"
+    }],
+    "speed": 1.83,
+    "deg": 41,
+    "clouds": 0,
+    "rain": 0.83
+  }]
+}
